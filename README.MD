@@ -1,0 +1,1 @@
+Esta es una app en Django muy sencilla. Tan solo se trata de hacer peticiones a una api americana para ver qué tiempo hace en según qué región, dependiendo del código postal que se le indique en la barra buscadora.
